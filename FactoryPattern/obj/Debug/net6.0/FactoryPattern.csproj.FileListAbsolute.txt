@@ -1,0 +1,15 @@
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.deps.json
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.runtimeconfig.json
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.dll
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.pdb
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.csproj.AssemblyReference.cache
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.AssemblyInfoInputs.cache
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.AssemblyInfo.cs
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.csproj.CoreCompileInputs.cache
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.dll
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/refint/FactoryPattern.dll
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.pdb
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.genruntimeconfig.cache
+/Users/daisyomoikirodah/Desktop/New Folder With Items 11.26.25 AM/repo/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/ref/FactoryPattern.dll
